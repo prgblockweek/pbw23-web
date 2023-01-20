@@ -24,15 +24,12 @@ jobs:
           node-version: 18
 
       - name: Install dependencies
-        working-directory: ./website
         run: npm ci
 
       - name: Build
-        working-directory: ./website
         run: npm run build
     
       - name: Add custom domain
-        working-directory: ./website
         run: "touch build/CNAME && echo \"dev.prgblockweek.com\" >> build/CNAME"
 
       - name: Deploy
@@ -43,4 +40,4 @@ jobs:
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./website/build
+          publish_dir: ./build
