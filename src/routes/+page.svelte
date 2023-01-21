@@ -28,6 +28,7 @@
             <p>A decentralized gathering of all people interested in cryptocurrencies and related topics. It consists of <a href="https://guide.prgblockweek.com/events">many independent events</a> across Jun 2 - 11, including conferences, hackathons, workshops, community meetups, as well as various parties and happy hours. </p>
             <p class="mt-5">These events will focus on a variety of different cryptocurrency ecosystems and topics such as hard money, payments, DeFi, Web3, DAOs, CryptoEconomics, NFTs, DeSci, mining, and many more.</p>
             <p class="mt-5">It is a chain agnostic and neutral <a href="https://guide.prgblockweek.com/our-mission-and-team">community-led initiative</a>. Our goal is not to promote one single blockchain, but rather to stimulate discussion between proponents of different solutions. The common theme is financial freedom, decentralization and privacy.</p>
+            <p class="mt-5 opacity-50">⚠️ This is just a temporary site that will soon be replaced by a full-fledged website and information center for <a href="https://twitter.com/search?q=%23PBW23" target="_blank">#PBW23</a>. In the meantime, you can read the <a href="https://guide.prgblockweek.com/faq">FAQ</a> and learn more about our concept.</p>
             <!--p class="mt-5 text-3xl text-center text-pbw-yellow">💛 #PBW23</p-->
         </div>
         <div class="flex flex-wrap gap-10 items-center text-center text-xl md:text-2xl uppercase mt-2 md:mt-7 pb-16 md:pb-24 text-pbw-yellow p-7">
@@ -36,13 +37,13 @@
             <div class="flex-grow"><a href="https://t.me/PrgBlockWeek" target="_blank" class="button">Join Telegram group</a></div>
         </div>
         <div id="footer" class="text-center text-red-300 pb-16 md:pb-24 mx-7 md:mx-0">
-            <a class="" href="https://guide.prgblockweek.com/event-host-guide">Host your event!</a>
+            <a href="https://guide.prgblockweek.com/event-host-guide">Host your event!</a>
             <span class="separator">⎯</span>
-            <a class="" href="https://guide.prgblockweek.com/faq">FAQ</a>
+            <a href="https://creativecommons.org/share-your-work/public-domain/cc0/" target="_blank"><span class="cc0-license inline-block"></span></a>Source: <a  href="https://github.com/utxo-foundation/pbw23-web">web</a>, <a href="https://github.com/utxo-foundation/prague-blockchain-week">data</a>
             <span class="separator">⎯</span>
-            <a class="" href="https://guide.prgblockweek.com/contact-us">Contact Us</a>
+            <a href="https://guide.prgblockweek.com/contact-us">Contact Us</a>
             <span class="separator">⎯</span>
-            <a class="" href="https://guide.prgblockweek.com/impressum">Impressum</a>
+            <a href="https://guide.prgblockweek.com/impressum">Impressum</a>
         </div>
     </div>
 </div>
