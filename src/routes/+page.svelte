@@ -39,9 +39,9 @@
         <div id="footer" class="text-center text-red-300 pb-16 md:pb-24 mx-7 md:mx-0">
             <a href="https://guide.prgblockweek.com/event-host-guide">Host your event!</a>
             <span class="separator">⎯</span>
-            <a href="https://creativecommons.org/share-your-work/public-domain/cc0/" target="_blank"><span class="cc0-license inline-block"></span></a>Source: <a  href="https://github.com/utxo-foundation/pbw23-web">web</a>, <a href="https://github.com/utxo-foundation/prague-blockchain-week">data</a>
-            <span class="separator">⎯</span>
             <a href="https://guide.prgblockweek.com/contact-us">Contact Us</a>
+            <!--span class="separator">⎯</span>
+            <a href="https://creativecommons.org/share-your-work/public-domain/cc0/" target="_blank"><span class="cc0-license inline-block"></span></a>Source: <a  href="https://github.com/utxo-foundation/pbw23-web">web</a>, <a href="https://github.com/utxo-foundation/prague-blockchain-week">data</a-->
             <span class="separator">⎯</span>
             <a href="https://guide.prgblockweek.com/impressum">Impressum</a>
         </div>
