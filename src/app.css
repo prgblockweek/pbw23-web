@@ -5,6 +5,9 @@
 @tailwind utilities;
 
 @layer components {
+    .link {
+        @apply underline hover:no-underline hover:text-red-200;       
+    }
     .text a {
         @apply underline hover:no-underline hover:text-red-200;
     }
